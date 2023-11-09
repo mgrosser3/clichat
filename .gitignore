@@ -1,0 +1,19 @@
+# Ignore everything ....
+
+*.*
+*/*
+
+# but not these files ...
+
+!.gitignore
+
+!LICENSE
+!README.md
+!build.bat
+!runserver.bat
+!runclient.bat
+
+# but not these folders ...
+
+!src/**
+!src/tests/**
