@@ -1,19 +1,5 @@
-# Ignore everything ....
+# Ignore Gradle project-specific cache directory
+.gradle
 
-*.*
-*/*
-
-# but not these files ...
-
-!.gitignore
-
-!LICENSE
-!README.md
-!build.bat
-!runserver.bat
-!runclient.bat
-
-# but not these folders ...
-
-!src/**
-!src/tests/**
+# Ignore Gradle build output directory
+build
