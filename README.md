@@ -1,5 +1,7 @@
 # CLI Chat Program
 
+<a href="/LICENSE">![License](https://img.shields.io/github/license/mgrosser3/clichat)</a>
+
 The CLI Chat Program is a small chat application implemented in Java. 
 
 ## Build
